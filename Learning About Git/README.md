@@ -16,3 +16,6 @@ Repository is a collection of files of various different versions of a Project.
 * `git fetch` is a command used to get files from the remote repository to the local repository but not into the working directory.
 * `git merge` is a command used to get the files from the local repository into the working directory.
 * `git pull` is command used to get files from the remote repository directly into the working directory. It is equivalent to a git fetch and a `git merge`.
+
+## Extra Read Material
+[Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
