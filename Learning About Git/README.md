@@ -9,7 +9,7 @@ Repository is a collection of files of various different versions of a Project.
 * **Tracked:** When the Git repository tracks a file, which means the file is committed but is not staged in the working directory.
 * **Staged:** In this stage, the file is ready to be committed and is placed in the staging area waiting for the next commit.
 
-## Commands
+## Commands example
 * `git add` is a command used to add a file that is in the working directory to the staging area.
 * `git commit` is a command used to add all files that are staged to the local repository.
 * `git push` is a command used to add all committed files in the local repository to the remote repository. So in the remote repository, all files and changes will be visible to anyone with access to the remote repository.
