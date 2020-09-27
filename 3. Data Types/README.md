@@ -19,3 +19,6 @@ A special keyword denoting a null value (i.e. empty value or nothing).
 
 ## undefined
 A top-level property whose value is undefined, undefined is also a primitive value.
+
+## Reference
+[JavaScript Data Types](https://www.w3schools.com/js/js_datatypes.asp)
