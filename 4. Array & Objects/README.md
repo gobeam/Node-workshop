@@ -7,7 +7,7 @@ let fruits = ['apple', 'mango', 'pears'];
 ``` 
 or
 ```js
-let fruits = ['apple', 'mango', 'pears'];
+let fruits = new Array('apple', 'mango', 'pears');
 ```
 Both are valid way to declare array.
 
